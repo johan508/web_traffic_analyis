@@ -6,8 +6,6 @@ I don’t have an accurate number to prove but based on my past experiences, onl
 3.	Who became my customers eventually (and the ratio)? (Conversion)  
 
 In this project, I will deploy this funnel process in Google Analytics on my personal website (https://zhanghan.ca). Since there is neither product page nor sales page on my web, the data collected for the last step (conversion) will probably be none.  
+[View the PDF] (./report.pdf)
 
-<html>
-  <iframe src="./report.pdf" width="100%" height="600px"></iframe>
-</html>
 

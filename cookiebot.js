@@ -1,4 +1,4 @@
-  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="64f3e6e5-b9ff-4796-956f-4f2516337bbb" type="text/javascript" async></script>
+  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="64f3e6e5-b9ff-4796-********" type="text/javascript" async></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag() { dataLayer.push(arguments); }
